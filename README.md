@@ -16,14 +16,15 @@ We named our tool *SurvIAE: Survival prediction with Interpretable AE*.
 
 If you find this repository useful for your research, please cite our paper in *Computer Methods and Programs in Biomedicine*:
 ```
-@article{Zaccaria2024,
+@article{ZACCARIA2023107966,
 title = {SurvIAE: Survival prediction with Interpretable Autoencoders from Diffuse Large B-Cells Lymphoma gene expression data},
 journal = {Computer Methods and Programs in Biomedicine},
-pages = {},
-year = {2024},
+pages = {107966},
+year = {2023},
 issn = {0169-2607},
-doi = {},
-url = {},
-author = {},
+doi = {https://doi.org/10.1016/j.cmpb.2023.107966},
+url = {https://www.sciencedirect.com/science/article/pii/S0169260723006326},
+author = {Gian Maria Zaccaria and Nicola Altini and Giuseppe Mezzolla and Maria Carmela Vegliante and Marianna Stranieri and Susanna Anita Pappagallo and Sabino Ciavarella and Attilio Guarini and Vitoantonio Bevilacqua},
+keywords = {Gene expression data, Survival prediction, Autoencoder, Explainable Artificial Intelligence}
 }
 ```
